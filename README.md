@@ -1,3 +1,8 @@
+---
+tags: arrays, hashes, iteration
+languages: ruby
+type: stay-fresh
+---
 #Stay Fresh Yo!
 Here are some challenges to keep you on your toes!
 
