@@ -4,7 +4,7 @@ languages: ruby
 type: stay-fresh
 ---
 ###Stay Fresh, Yo!
-<img src="https://s3.amazonaws.com/after-school-assets/fresh2.jpg" width="400px" align="left" hspace="10"> Here are some challenges to keep you on your toes!
+<img src="https://s3.amazonaws.com/after-school-assets/fresh2.jpg" width="200px" align="right" hspace="10"> Here are some challenges to keep you on your toes!
 
 + [Codequiz on Arrays and Hashes](http://www.codequizzes.com/learn-ruby/symbols-array-methods-hashes) - Test your knowledge of symbols, arrays, and hashes.
 
