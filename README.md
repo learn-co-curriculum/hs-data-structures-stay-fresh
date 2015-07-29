@@ -1,8 +1,4 @@
----
-tags: arrays, hashes, iteration
-languages: ruby
-type: stay-fresh
----
+
 ###Stay Fresh, Yo!
 <img src="https://s3.amazonaws.com/after-school-assets/fresh2.jpg" width="200px" align="right" hspace="10"> Here are some challenges to keep you on your toes!
 
