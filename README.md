@@ -6,4 +6,4 @@
 2. [Rubymonk Frequency Finder Problem](https://rubymonk.com/learning/books/1-ruby-primer/problems/6-frequency-finder) - Find the frequency of a string in a sentence.
 3. [Rubymonk Random Element Selector Problem](https://rubymonk.com/learning/books/1-ruby-primer/problems/15-select-random-elements-from-an-array) - Select random elements from an array.
 
-<a href='https://learn.co/lessons/hs-data-structures-stay-fresh' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-data-structures-stay-fresh' title='Stay Fresh, Yo!'>Stay Fresh, Yo!</a> on Learn.co and start learning to code for free.</p>
